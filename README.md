@@ -49,7 +49,7 @@ $ npx eslint .
 ```
 
 ### Deployment
-- GitHub pages
+[Live Demo Link](https://isnt-jabokpoe-awesome.netlify.app/)
 
 ## Author
 
@@ -70,7 +70,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
  Nelson Sakwa the author of the original design used in this project.
- 
+
 ## 📝 License
 
 This project is [https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt](./MIT.md) licensed.
