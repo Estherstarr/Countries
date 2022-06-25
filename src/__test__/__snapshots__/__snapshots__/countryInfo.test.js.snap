@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`display countryInfo components snapshot renders properly 1`] = `
+<div
+  className=" p-10 md:p-20 text-white md:h-screen"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <button
+      className="w-28 shadow-lg bg-[#2d4474] rounded p-1 mb-10"
+      type="button"
+    >
+      Back
+    </button>
+  </a>
+  <div
+    className="flex flex-col gap-y-16 md:flex-row md:gap-x-20 "
+  >
+    <img
+      alt="country-flag"
+    />
+    <div>
+      <h2
+        className="font-bold mb-6"
+      />
+      <div
+        className="flex flex-col gap-y-10 md:flex-row md:gap-x-20"
+      >
+        <div>
+          <p>
+            <span
+              className="font-bold"
+            >
+              Native Name
+            </span>
+            :Belge
+          </p>
+          <p>
+            <span
+              className="font-bold"
+            >
+               Population:
+            </span>
+            <span
+              className="pl-2"
+            />
+          </p>
+          <p>
+            <span
+              className="font-bold"
+            >
+              Region:
+            </span>
+            <span
+              className="pl-2"
+            />
+          </p>
+          <p>
+            <span
+              className="font-bold"
+            >
+              SubRegion:
+            </span>
+            <span
+              className="pl-2"
+            />
+          </p>
+          <p>
+            <span
+              className="font-bold"
+            >
+              Capital:
+            </span>
+            <span
+              className="pl-2"
+            />
+          </p>
+        </div>
+      </div>
+      <div
+        className="mt-10 flex-col gap-y-3 md:flex-row md:gap-x-3"
+      >
+        <h4>
+          Border Countries:
+        </h4>
+        <div
+          className="mt-2"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
